@@ -1,0 +1,37 @@
+[
+	{
+		"name": "WDR COSMO",
+		"lang": "mb-de7",
+		"url": "http://wdr-cosmo-live.icecast.wdr.de/wdr/cosmo/live/mp3/128/stream.mp3",
+        "cap_value": 70,
+        "scale_value": 90
+	},
+    {
+		"name": "Apollo Radio",
+		"lang": "mb-de7",
+		"url": "http://streaming.apolloradio.de/apolloradio_simulcast_192k_mp3",
+        "cap_value": 45,
+        "scale_value": 70
+	},
+    {
+		"name": "Radio Swiss Tschäz",
+		"lang": "mb-de7",
+		"url": "http://stream.srg-ssr.ch/m/rsj/mp3_128",
+        "cap_value": 26,
+        "scale_value": 50
+	},
+	{
+		"name": "WDR Maus",
+		"lang": "mb-de7",
+		"url": "https://wdr-diemaus-live.icecastssl.wdr.de/wdr/diemaus/live/mp3/128/stream.mp3",
+        "cap_value": 12,
+        "scale_value": 30
+	},
+    {
+		"name": "Deutschlandfunk",
+		"lang": "mb-de7",
+		"url": "http://st01.dlf.de/dlf/01/128/mp3/stream.mp3",
+        "cap_value": 5,
+        "scale_value": 10
+	}	
+]

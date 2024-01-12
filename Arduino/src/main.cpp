@@ -1,18 +1,21 @@
 #include <Arduino.h>
-#include <CapacitorLite.h>
+#include <Capacitor.h>
 #include <simpleRPC.h>
 
-CapacitorLite cap0(6,A0);
-CapacitorLite cap1(5,A1);
+//CapacitorLite cap0(6,A0);
+//CapacitorLite cap1(5,A1);
+
+Capacitor cap0(6,A0);
+Capacitor cap1(5,A1);
 
 void setup() {
   Serial.begin(115200);
 }
 
-unsigned int getCap0(void) {
+float getCap0(void) {
   return cap0.Measure();
 }
-unsigned int getCap1(void) {
+float getCap1(void) {
   return cap1.Measure();
 }
 

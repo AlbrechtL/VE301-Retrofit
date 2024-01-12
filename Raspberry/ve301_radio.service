@@ -1,0 +1,9 @@
+[Unit]
+Description=VE301 Radio Service
+
+[Service]
+# Command to execute when the service is started
+ExecStart=/usr/bin/python /home/pi/src/VE301-Retrofit/Raspberry/ve301_radio.py
+
+[Install]
+WantedBy=default.target
