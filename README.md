@@ -11,9 +11,11 @@ One key motivation for this retrofit was to show children how old radios sounded
 ## Pictures
 
 **Front view**
+
 <img src="pictures/ve301_front.jpg" width="400">
 
 **Back view**
+
 <img src="pictures/ve301_back.jpg" width="400">
 
 **Electronics view**
@@ -21,13 +23,16 @@ One key motivation for this retrofit was to show children how old radios sounded
 <img src="pictures/ve301_eletronics.jpg" width="400">
 
 ## System design overview
-
+TBD
 
 ## 3D models
 
 * VE301 Buttons
-Unfortunately, I damaged the original buttons while disassembling thus I created some 3D printed.
-<img src="3d/ve301_button.png" width="200">
+  
+  Unfortunately, I damaged the original buttons while disassembling the radio thus I created some new 3D printed.
+  
+  <img src="3d/ve301_button.png" width="200">
+  
   - Fusion 360 file, see "3d/VE301 Drehknopf V3 v8.f3d"
   - STL file, see "3d/VE301 Drehknopf V3 v8.stl"
 
